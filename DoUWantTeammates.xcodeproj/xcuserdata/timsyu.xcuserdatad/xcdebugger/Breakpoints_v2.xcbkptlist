@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DoUWantTeammates/TeammatesTableViewController.swift"
+            timestampString = "569008903.4287781"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "TeammatesTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DoUWantTeammates.TeammatesTableViewController.TeammateNumberLabel.getter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DoUWantTeammates"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timsyu/Downloads/NobodyLovesYou-master%202/DoUWantTeammates/TeammatesTableViewController.swift"
+                  timestampString = "568559151.152647"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DoUWantTeammates.TeammatesTableViewController.TeammateNumberLabel.setter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "DoUWantTeammates"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timsyu/Downloads/NobodyLovesYou-master%202/DoUWantTeammates/TeammatesTableViewController.swift"
+                  timestampString = "568559151.155598"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DoUWantTeammates.TeammatesTableViewController.init(style: __C.UITableViewStyle) -&gt; DoUWantTeammates.TeammatesTableViewController"
+                  moduleName = "DoUWantTeammates"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timsyu/Downloads/NobodyLovesYou-master%202/DoUWantTeammates/TeammatesTableViewController.swift"
+                  timestampString = "568559151.158462"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "161">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DoUWantTeammates.TeammatesTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DoUWantTeammates.TeammatesTableViewController"
+                  moduleName = "DoUWantTeammates"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timsyu/Downloads/NobodyLovesYou-master%202/DoUWantTeammates/TeammatesTableViewController.swift"
+                  timestampString = "568559151.160833"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "178">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DoUWantTeammates.TeammatesTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DoUWantTeammates.TeammatesTableViewController&gt;"
+                  moduleName = "DoUWantTeammates"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timsyu/Downloads/NobodyLovesYou-master%202/DoUWantTeammates/TeammatesTableViewController.swift"
+                  timestampString = "568559151.163063"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "147">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Downloads/NobodyLovesYou-master 2/DoUWantTeammates/TeammatesTableViewController.swift"
+            timestampString = "568694652.371087"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DoUWantTeammates/TeammatesTableViewController.swift"
+            timestampString = "569008903.429135"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

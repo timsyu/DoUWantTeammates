@@ -43,7 +43,7 @@ class TeammatesTableViewController: UITableViewController {
 
         // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
         // self.navigationItem.rightBarButtonItem = self.editButtonItem
-        self.tableView.backgroundView = UIImageView(image: UIImage(named: "邊緣人的日常"))
+        self.tableView.backgroundView = UIImageView(image: UIImage(named: "辣妹"))
         self.tableView.backgroundView?.alpha = 0.3
         
         if let teammates = Teammate.readTeammatesFromFile() {
